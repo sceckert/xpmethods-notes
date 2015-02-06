@@ -1,0 +1,79 @@
+# Open Lab
+1/23/2015
+
+- Some tool tips: Vim editing - folds and marks
+- Over winter break: Proposal for Center for Computation using open lab materials 
+- This semester: slow down on new projects; push projects that we have into publication
+
+## Projects in Docket:
+1. Unidentified Found Object
+	- Ford museum took photos, spectrometry reports; we will launch to be crowdsourced
+	- Reddit, Stackexchange and Metafilter
+	- Hackathon with results
+	- First experiment in taking to next level
+	- Linguistics an Literature in Computatlon
+	- Dennis wrote a chapter on early history of the telegraph; cyanide early experimentation in recording medium
+		- telegraph timelines synchronized
+2. Reschedule Public Books
+3. NYC Folktech
+	- bring photographs; pick 3-4 and do interviews
+
+## New projects:
+1. Center for Justice and Caesar - Digital literacy at Rikers Island
+	- What is the timeline for the workshops 
+2. Consensus in scientific literature 
+	- We currently have the corpus of Journal for Computational Linguistics
+	- acquiring the whole Web of Science dataset
+	- working with Networking guy from Stanford
+	- NLTK
+	- Current paradigm: “Eureka-alert” announces new scientific findings
+	- We want to be able to quickly contextualize a new work and historicize trends in scientific consensus
+3.  500k book reviews from Reddit and book clubs
+	- We have this dataset
+	- Ed Finn helped with this
+	- comp. language about literature to, say, Public Books reviews
+	- look at the corpus and describe the corpus
+	- what is the social experience
+	- we have usernames, so we could track influence
+4. Frances Negron 
+	- The show “Jane the Virgin” is going to be canceled
+	- Have a form online 
+5. Small Axe
+	- Reduce the cost of publishing
+	- Create an issue of the journal in Markdown and Pandoc
+	- Have John MacFarlane come and see if we can add an editing function
+	- The Markdown edit function could be rolled out with the Small Axe 
+	- Penflip = GoogleDocs-styled collaborative editor for markdown files, so that we could have this be read by their interface.
+	- Visualizing edits in a network diagram (Shelley-Godwin archive)
+	- Possibly a LaTex stylesheet for MLA-style formatting
+6. Concluding Lecture Series on Method in the Humanities
+	- Martha Nell Smith
+	- Brent Smith
+
+## Studio Events:
+- Sebastian Chen - 3D museum stuff
+- Miguel Ripole - Spanish web designer
+- Steve Jones - the early history of DH in New York
+	- Father Busa & Watson
+- Possibly Miriam Posner
+
+## Center for Justice @ Columbia
+- Education, research, and policy
+- programming for RNDC - youth (16-17)
+- Timeline: summer/fall 
+ - monthlong workshops on saturdays; 3 hrs each (though flexible, poss. multiple running at once?)
+- team-based projects
+- restorative practices : we want to create a project where we don’t come in and lecture
+	- Columbia students will be paired with young people there
+- What kinds of projects?
+	- Ideally, have the skills fed in and result in employment
+- Beats Rhymes and Justice - sound engineering; using iPods
+- Difficulties & Logistics
+	- no internet
+- Social Enterprise Startup - helping young people think up a for-profit business models
+- Ideas for workshops
+	- Webpage making - HTML, CSS, 
+		- make website for Heyman Center
+		- make faculty websites
+	- Bookmaking 
+	- Scratch?

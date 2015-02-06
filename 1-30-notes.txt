@@ -1,0 +1,42 @@
+# 1-30-2105 xpMethods Meeting
+
+- Feb. 18th Nadiya Schultz
+1. Co-authorship model for our work
+Have a methods section on the website:
+- co-authorship
+- bi-line; having people delegated into roles per project
+- clearly defined roles; re-negotiating each time? 
+
+2. Medieval Maps
+mondays 10-12am lab here. 
+
+Handmade:
+- what function does it serve within the station 
+- expert knowledge; spamming; what constitutes what is off topic — there is a meta-board for every board, the people who can argue about it are the high reputation people . 
+
+Hackernews and Gizmodo
+- to what extent can 
+
+Open issues for contacting
+
+- Telefunken
+	- US patents? Google patents
+	- European patent database difficult
+- U-boats
+	- patents, Telefunken
+- they did have multiplexing
+	- synchronous telegraphs are synched up OR idea of a time frame that are synched up. 
+	- How precise is the time piece? How many bits per second? What channels were being used?
+	- could just be a cipher
+	- start stop telegraph is a session based technology; (TCPIP is asychronyous while SSH is session based)
+
+
+Telegraph code
+- Morse is not fixed; Badot IS exactly five.
+- Badot is also responsible for start/stop
+- World War II sonar had a range of 1000 meters or so. 
+
+traces of cyanide 
+cyanide is what is magnetized, BUT could also be used for photoelectric 
+
+

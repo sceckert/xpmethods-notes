@@ -1,0 +1,143 @@
+# Pamela Smith: Critical Making: The Making and Knowing Project
+- Prompt, provocation - > then, we will meet and discuss as a group
+- Grant: what do experiments look like?
+Intro, followed by an opening convo
+
+## Intro
+- contestation of the opposition between he workshop and the laboratory
+- how did craftspeople contribute to scientific revolution?
+- long sense of “craft”: engagement of human bodies with the material world
+- the bracketed space of the scientific laboratory is a nth
+- Smith’s work “ Lived experience to Written Word”
+	- the problem of recovering “skill”
+	- ceramic models of lived things
+	- Bernard Palissy 1510-1590s
+		- practice and theory; “you will still make a thousand mistakes.. and even if you had them in writing you would not believe them until practice has given a thousand afflictions”
+		- What evidence do we have? Books, images, emergent “how-to”: The Book of Secrets (15 Alessio Piemontese) book of technical recipes
+	- Why did this flood of technical literature appear?
+- Current problems:
+	- the problem of reproducibility in natural sciences
+	- response: Jove, a Journal of Visualized Experiments
+- How do we get at this knowledge: apprentice-ship
+	- reconstructions
+	- there are historical techniques of painting class
+	- nb: no one in history of sci, art history know the material
+- Where do you do this? Victorian Albert museum
+	- site for archiving processes that are important for the nation
+	- West Dean College of Arts
+- Examples:
+	-The Chymistry of Isaac Newton
+		- we can see that metaphors are actually real
+	- Life Casting: the casting in metal of flowers, etc.16th century
+		- there are differing accounts/instructions
+- Reconstruction: a mix of museum, textual, and reverse engineering
+	- what kind of historical evidence is available to historians of life in the past
+	- what did they mean to people
+	- when you reconstruct, you’re dealing with an emergent phenomenon (in the present) with something in the past.  YOU NEVER HAVE THE SAME THING
+	- problem of evidence here — yet this is also a problem of archival documents
+		- we don’t think about archival documents as emergent phenomena
+
+## The Making and Knowing Project
+- 1. Middle French Paleography Workshop June 2014
+	- 340 page manuscript 
+	- collectively produced (91+) critical edition that is translated and annotated
+	- learned paleography, then worked in pairs
+	- Workflow
+		- Google drive
+			- each page has a folder with hi depth picture and a translation
+			- transcription, normalized transcription, and translation
+			- kept as simple as possible
+		- problems:
+			- different permission access
+			- google keeps changing
+			- retrospective correction
+	- Power of Collective work: 
+		- collectively constructed resources of id’ing books, art, etc, all online
+		- collectively compiled vocabulary 
+- 2. Craft and Science Laboratory Seminar
+	- history seminar where the research is done in the laboratory. This year is mold-making and metal-making technical recipes
+		- Test: make recipe
+		- How do you record everything? Field notes 
+		- How do you take lab notes? 
+	- How do you organize this information? **KEY**
+		- wiki
+		- annotation: multi-media essays uploaded to the wiki
+			- these include lots of primary source work on recipe genealogies
+		- example: bread molding (used to test out moldes)
+- 3. Expert Oversight and Digital Edition
+	- happening in May, the oversight, the students come together to compile annotations
+	- the Met scholars asked the students for their feedback 
+	- Questions:
+		- what we want it to do and what we want it to look like?
+	- NB: continuity of techniques (like “lizard catching”)
+		- the intersection of scientific knowledge required to find materials and artistic knowledge
+
+## Our Problems:
+1. Coordinating access and permissions to Google
+2. Organizing the Archive and WikiSpace
+	- tagging in Flickr
+	- extensive documentation of materials
+	- how do you organize this?
+	- How do you make these things speak to one another?
+		- consistent tagging
+	- Embed iframes of the googledrive into the Wiki (is iframe really the right way to go?)
+3. Scaling up and Collaboration
+	- scaling up next semester to collaboration with U Glascow, Bard, Amsteram, VNA, Cologne institute for conservation
+	- they will perform same recipes and do additional annotations
+	- virtual conferencing and collaboration in real time
+		- Big Blue Button? Blue Jeans?
+
+## Discussion:
+- version control
+	- for text
+	- there is version control for video
+- the problem with GoogleDrive and YouTube - should be in openly accessible system that is friendly to API access
+	- two partners
+		- WikiMedia foundations, the fact that they’re in place for storing 
+		- Internet Archive
+- access control 
+- what kind of uses do you envision? 
+	- multiple uses, iterations
+	- classroom, pedagogy, modeling, resource for
+- differences between collaboration and publishing
+	- have CS class working on questions of digital/collaborative knowledge production synchronously with the critical making project
+	- computing in context with DAVID BLEI — TALK TO DAVID AND DAVID MIMNO ABOUT THIS
+- why isn’t digital making folded into this as well? 
+- how to collaborate well online is not well covered anywhere?
+- the question of successful collaboration:
+	- peer-production: how do you ensure for successful moderation = editorial model 
+- how do you capture knowledge produced by the project?
+
+
+what they need: 
+- a metadata schema
+- what are the affordances of the traditional model
+- how can we preserve the multiplicity of knowledge
+- how do we produce a platform agnostic
+- tagging? tags can become obsolete 
+- the schema question?
+- what is the goal? what is the deliverable
+
+Small group discussion:
+- version control via Github
+	- students can use the UI if they don’t want to use the command line
+- YEML for metadata
+	- arbitrary data structure 
+	- can include images in the metadata
+	- JSON data
+
+Create a new project in XPMethods, “Field Notes”
+- get the markdown source materials 
+- create a directory with images
+- upload the manuscript
+- where do the images live? Flickr is a problem
+	- would wikimedia? 
+	- let’s put one images on wikimedia commons
+- create a directory structure
+- upload and link to wikimedia commons
+
+
+What we need from the Making and Knowing project:
+- a stylesheet or guide on what TEI protocols have been used
+- a 
+- 

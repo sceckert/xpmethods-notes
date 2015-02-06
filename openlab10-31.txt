@@ -1,0 +1,85 @@
+# Open Lab 
+10/31/2014
+
+xpmethods
+now partners with Columbia Center for Interational History 
+[NB we need a mailing list to clip in with in the English]
+[How do we communicate to the larger CU community? + subscription]
+ADI [undergrad hacker list] == > we should spin up a mediate machine
+e.g.:How to tweet annotations
+
+### XPMethods Triage Meetings
+3pm - meeting every Fridays - go over the projects and give updates, add new projects
+Mixture of different authors — questions of authorship
+- part of our ethos should be fair attribution. 
+- we’re modeling for other institutions how to do co-authorship CORRECTLY
+- this is a portfolio and we want a Columbia flavor to this work
+- these project should be small and high impact
+- e.g. OSP is high funding, long term, etc
+- we don’t want to be in the business of supporting a slog of these big long term things
+
+### Tasks:
+- on the _posts/projects we have all the ongoing projects; in the “archive” are the ones that are done. 
+- On Fridays we will go through this. Some of this will require organizing people and facilitating things
+- clearly designate who is driving what project
+
+### Current projects:
+- Big Round Table: Michael Shapiro and the Journalism school — reinventing and reinvigorating long-form journalism [link](http://www.thebigroundtable.com/)
+- What they’re struggling with: monetizing long form journalism
+	- UI: how do we make the user -interface better
+	- they’re going to take the lead on these projects. 
+- P1: “Story Support”
+	- daylong workshop and hackathon
+	- we’re going to add a bit coin tip jar on every story
+	- The article will say “supported by…” and list all of the readers
+		- we can do this quickly in a hackathon
+	- There will be a quick bit coin workshop/hackathon — Not paypal? Bitcoin will get them in the news
+		- this could be expanded 
+- P2: “Prints not Debt”
+	- publishing the stories with amazon shorts — but they don’t want to work with Amazon
+	- we can very easily create a nicely typeset pdf that you could print. 
+	- $0.99 —> typeset workflow for publishing (we have expertise in this)
+		- we can do this in one hackathon
+		- high
+
+- P3: “NYCFolktech”
+	- how people hack things in real world
+		- Margaret Halloway
+		- email in photos, etc
+	- write with Margaret on case study 
+
+- P4: “Humanities Defense Patent Portfolio”
+	- how can we subvert the patent culture
+	- when you look into IP rights around literary technology 
+		- the patenting of things that should not be patented
+	- we’re taking lead on this and we’re going to go forward on patenting 
+		- workshop on patenting
+			- IP and patenting 
+
+
+For the website: 
+we can use github to organize the issues
+	- channel everyone into gitbhub 
+	- use the project management stuff
+	- used for scheduling
+	- we can add small, private repository
+		- github workshop 
+
+Projects on the back burner:
+	- “published: false” — switch this to being true to publish
+	- you just need a description to post. 
+
+
+To do:
+
+- mailinglist 
+- invite other students
+	- e.g. Jeremy, Matt - send an email 
+
+
+our website:
+- eventually: xpmeth.plaintext.io
+.plaintext.io 
+xpmeth.plaintext.io/
+make third tier
+	- a name for less expensive hosting (for denten.plaint.in ) 		

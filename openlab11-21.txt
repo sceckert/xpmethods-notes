@@ -1,0 +1,36 @@
+Group for experimental methods
+
+11/21/2014
+Check-in with the Group for Experimental Methods
+- now, you can add a category onto of the event
+- that migraines the event from events to research
+
+
+3:30
+Tara Conelley: Hashtag Feminism
+- migrate the site to Github to prevent hacking
+
+Anna Hayet | Big Round Table
+2 projects:
+- Print’s Not Dead
+- Story Support BitCoin tip jar 
+	- Next semester: workshop on BitCoin; after the workshop, we will work on implementing a bit coin tip-jar for next semester 
+- Jan 23rd: Penguin (+ Public Books)
+- Minimally viable digital citizen: the space of pub. discourse
+- Dec 12th Directory of Technology ventures Wkshop on Intellectual property
+-  Medieval Geographies: organizational charts, do some other experiments on how to visualize space 
+- NYC folk technology (photograph stuff!)
+	- solicit contributions— oral history work with the folk technicians; 
+- Print’s not dead - meeting next week
+- BroPages - embedded masculinity in software programs, language patterns
+	- Github archive: all of their data accessible through their API
+	- analysis of software 
+- Problem with XpMethods site: we have too many tags
+	- one solution: branch on Github 
+
+
+Hashtag Feminism
+- a way to curate what feminists and activists have done on Twitter using hashtags
+- archiving and locating fem. culture
+- most recent: working with PolicyMike
+- concern about security & fair compensation
